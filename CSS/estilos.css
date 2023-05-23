@@ -1,0 +1,66 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.alinearDerecha {
+    padding-left: 10px;
+}
+
+.firma {
+    color: white;
+    display: inline;
+    font-weight:bold;
+    text-transform: uppercase;
+}
+
+.img {
+    background-color:#E6E6E6;
+    text-align: center;
+}
+
+.imgRedes {
+    padding-left: 10px;
+}
+
+.redesSociales {
+    background-color: #005677;
+    padding: 5px;
+    text-align: center;   
+}
+
+.tituloAnios {
+    font-weight:bold;
+    
+}
+
+.tituloDatos {
+    font-style: italic;
+    font-weight:bold;
+}
+
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 9px;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 9px;
+    padding-left: 20px;
+    text-transform: uppercase;
+}
+
+body {
+    margin: 0px;
+}
+
+main {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
